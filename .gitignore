@@ -1,0 +1,5 @@
+# Virtual environment
+.venv/
+
+# Llama for local inference
+llama*
